@@ -1,3 +1,4 @@
+##Accessing class attributes outside __init__ and inside __init__ function
 class OnlineStore:
     noOfItems = 0
     s1 = []
